@@ -29,5 +29,6 @@ Precisa dos pacotes instalados:
 
 * clang-7
 * libc++1-7
+* libc++-7-dev
 * libc++abi1-7
 * libc++abi-7-dev
