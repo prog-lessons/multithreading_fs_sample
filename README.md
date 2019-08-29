@@ -1,1 +1,2 @@
-# c-
+# C++
+Programas exemplos em C++.
