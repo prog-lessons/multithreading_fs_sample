@@ -32,3 +32,9 @@ Precisa dos pacotes instalados:
 * libc++-7-dev
 * libc++abi1-7
 * libc++abi-7-dev
+
+Ou para gerar o executavel com g++
+
+```
+g++ -std=c++17 -Wextra -Wall -pedantic main.cpp dirmgr.cpp -o lesson.exe -lstdc++fs -pthread
+```
