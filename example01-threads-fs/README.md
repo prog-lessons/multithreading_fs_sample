@@ -24,7 +24,7 @@ Se não tiver/quiser o CMake instalado, dá pra gerar o executavel diretamente c
 clang++ -std=c++17 -stdlib=libc++ -Wextra -Wall -pedantic main.cpp dirmgr.cpp -o lesson.exe -lc++fs \
 -pthread
 ```
-# 
+
 Precisa dos pacotes instalados:
 
 * clang-7
