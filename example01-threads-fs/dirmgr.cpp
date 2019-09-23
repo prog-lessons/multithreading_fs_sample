@@ -52,7 +52,7 @@ bool DirManager::start_watching(string path)
 {
    try
    {
-      thread *obj_th = new thread(&DirManager::watching_task, this, path);
+      thread* obj_th = new thread(&DirManager::watching_task, this, path);
 
       this->obj_linked_thd = obj_th;
 
