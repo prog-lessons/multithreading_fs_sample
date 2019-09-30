@@ -75,7 +75,7 @@ int DirManager::count_items(string path)
 {
    int items = 0;
 
-   for (auto &p : _NS_fs::directory_iterator(path))
+   for (auto& p : _NS_fs::directory_iterator(path))
    {
       if (_NS_fs::is_regular_file(p.path()))
          items++;
