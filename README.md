@@ -1,2 +1,2 @@
 # C++
-Programas exemplos em C++.
+Code examples in C++ for study.
