@@ -1,3 +1,5 @@
+[Modern C++: Multithreading and Filesystem library (practical example)](https://medium.com/@cadutech/modern-c-multithreading-and-filesystem-library-practical-example-dbe921541850?source=friends_link&sk=df27feebcea96d06eb7e2b274a08d436)
+
 # Exemplo 01 - Threads e FileSystem no C++17
 
 Pequeno programa para demonstrar aplicação de multithreading e da biblioteca filesystem no C++17.
