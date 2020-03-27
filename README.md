@@ -1,3 +1,3 @@
 # C++
-Code examples in C++ to study.
-01) [Threads & FileSystem (C++17] (https://github.com/prog-lessons/c-plus-plus/tree/master/example01-threads-fs)
+Sample programs in C++ to study.
+01) [Threads & FileSystem (C++17)](https://github.com/prog-lessons/c-plus-plus/tree/master/example01-threads-fs)
