@@ -40,7 +40,10 @@ void DirManager::watching_task(string path)
       cout << "Monitoring [in] directory, interval 3 secs." << endl;
 
       if (this->count_items(path) > files_count)
-         cout << "New file created." << endl;
+         cout << "New file created." << endl;   
+
+      if (this->count_items(path) < files_count)
+         cout << "Some file(s) deleted." << endl;         
 
       files_count = this->count_items(path);
    }
